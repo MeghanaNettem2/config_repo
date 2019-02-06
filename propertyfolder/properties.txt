@@ -15,6 +15,6 @@ TOMCAT_LOCATION=tom:/usr/local/tomcat/webapps/
 
 ARTIFACTORY_ID=http://my16083dns.eastus2.cloudapp.azure.com:8081/artifactory
 
-RECEPIENT_MAIL_ID = sweetynmeghana@gmail.com
+RECEPIENT_MAIL_ID = Meghana.Nettem2@mindtree.com
 
 DOCKER_CMD = docker run -d --name tom -p 9001:8080 tomcat
